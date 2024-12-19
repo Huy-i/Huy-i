@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huy-i
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently studing Information Technology.
+- 🌱 I’m currently studying Information Technology.
 - 💞️ I’m looking to collaborate on building a website or web app.
 - 📫 How to reach me ... peuohuyi@gmail.com 
 <!---
